@@ -1,1 +1,1 @@
-# upptime
+# upptime static page
